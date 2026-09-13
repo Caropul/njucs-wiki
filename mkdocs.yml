@@ -20,6 +20,7 @@ nav:
   - 课程:
     - 第一学期:
       - 微积分1: Course/Calculus1.md
+  - 友链: links.md
 
 markdown_extensions:
   - admonition
