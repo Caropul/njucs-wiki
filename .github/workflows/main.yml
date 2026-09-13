@@ -10,13 +10,16 @@ jobs:
   deploy:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
-    
+    if: github.event_name == 'push'
+    permissions:
+      contents: write
+
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-python@v2
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
         with:
-          python-version: 3.x
+          python-version: '3.x'
       - run: pip install mkdocs
       - run: pip install pymdown-extensions
       - run: pip install mkdocs-material

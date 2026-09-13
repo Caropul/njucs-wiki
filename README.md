@@ -1,14 +1,14 @@
-# ics-wiki
+# NJUCS Wiki
 
-Welcome to Information and Computing Science Wiki
+Welcome to Nanjing University Computer Science Wiki
 
-欢迎来到 信息与计算科学 Wiki！
+欢迎来到 NJUCS Wiki！
 
 ## 这是什么
 
-这是一个正在测试中的 wiki 站点，由 NJU CS 2020级 信息与计算科学的同学维护。
+这是一个正在测试中的 wiki 站点，由 NJU CS 2024 -- 2025 级计算机科学与技术专业的同学维护。
 
-本 wiki 收录任何和 NJU 信息与计算科学相关的内容，包括但不限于心得分享，复习资料，课程评价等内容。
+本 wiki fork 自 [ICS Wiki](https://github.com/NJUICS-WIKI/ics-wiki)，收录任何和南京大学泛计算机专业课程与计算机自学内容，包括但不限于心得分享，复习资料，课程评价等内容。
 
 ## 如何投稿
 
