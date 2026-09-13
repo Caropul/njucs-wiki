@@ -22,6 +22,7 @@ nav:
       - 微积分1: Course/Calculus I.md
     - 第二学期:
       - 离散数学1: Course/Discrete Mathematics I.md
+  - 友链: links.md
 
 markdown_extensions:
   - admonition
